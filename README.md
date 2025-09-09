@@ -6,6 +6,6 @@ For this first homework assignment, we’re giving you a choice. If you’re new
 
 ### Final Project
 
-[Cure All Crew](https://github.com/CSCI-526-Spring-2025/csci-526-final-project-team27)
+[Source Code](https://github.com/CSCI-526-Spring-2025/csci-526-final-project-team27)
 
 [Playable Build](https://syoinn.github.io/Team27-Gold/)
